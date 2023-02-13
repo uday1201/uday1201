@@ -52,6 +52,9 @@ Want to know more about me? [Check out my portfolio.](https://udayy.me/)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -60,15 +63,12 @@ Want to know more about me? [Check out my portfolio.](https://udayy.me/)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=HTML&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Bootstrap5-informational?style=flat&logo=Bootstrap5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Flask-informational?style=flat&logo=Flask&logoColor=white&color=4AB197)
 
 <br>
 
 ![](https://img.shields.io/badge/Test-Pytest-informational?style=flat&logo=Pytest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=4AB197)
 
 <br>
 
@@ -87,7 +87,3 @@ Want to know more about me? [Check out my portfolio.](https://udayy.me/)
 
 </details>
 
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
