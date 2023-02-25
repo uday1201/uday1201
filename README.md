@@ -14,6 +14,20 @@ Want to know more about me? [Check out my portfolio.](https://udayy.me/)
 
 <br>
 
+<a href="https://github.com/uday1201/Leetcode2023">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=uday1201&repo=Leetcode2023&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/uday1201/Python-Report-Generator">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=uday1201&repo=Python-Report-Generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
 <a href="https://github.com/uday1201/rasabot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=uday1201&repo=rasabot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
