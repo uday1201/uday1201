@@ -19,13 +19,11 @@ Want to know more about me? [Check out my portfolio.](https://udayy.me/)
 </a>
 
 <br>
-<br>
 
 <a href="https://github.com/uday1201/Python-Report-Generator">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=uday1201&repo=Python-Report-Generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
 <br>
 
 <a href="https://github.com/uday1201/rasabot">
@@ -38,14 +36,6 @@ Want to know more about me? [Check out my portfolio.](https://udayy.me/)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=uday1201&repo=NLP_experiments&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-
-<a href="https://github.com/uday1201/new_dhsm">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=uday1201&repo=new_dhsm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
